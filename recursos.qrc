@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Imagenes/aboutQt.png</file>
+        <file>Imagenes/DownTriangle.png</file>
+        <file>Imagenes/escudoPuj.png</file>
+        <file>Imagenes/UpTriangle.png</file>
+    </qresource>
+</RCC>
